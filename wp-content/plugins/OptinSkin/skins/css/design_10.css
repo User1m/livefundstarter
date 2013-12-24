@@ -1,0 +1,61 @@
+.ois_button_10,.ois_box_10 input[type="submit"] {
+	margin-top:5px!important;
+	padding:3px 8px!important;
+	background-image:url(../../front/images/like_what_button.png)!important;
+	background-repeat:no-repeat!important;
+	background-color:transparent!important;
+	position:absolute;
+	bottom:20px!important;
+	left:47px!important;
+	width:107px!important;
+	height:52px!important;
+	border:none!important;
+	outline:none!important
+}
+
+.ois_box_10 {
+	height:400px!important;
+	width:200px!important;
+	position:relative!important;
+	text-align:center!important
+}
+
+.ois_textbox_name_10 {
+	position:absolute!important;
+	top:150px!important;
+	left:30px!important
+}
+
+.ois_textbox_email_10 {
+	position:absolute!important;
+	top:285px!important;
+	left:30px!important
+}
+
+.ois_textbox_10,.ois_box_10 input[type="text"],.ois_box_10 input[type="email"] {
+	width:145px!important;
+	padding:5px!important;
+	font-size:13px!important;
+	background-color:#FAFAFA!important;
+	background-image:none!important;
+	border:1px solid#DDD!important;
+	-webkit-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	-moz-box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.0976562)!important;
+	color:#888!important;
+	cursor:auto!important;
+	display:inline-block!important;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif!important;
+	font-style:normal!important;
+	font-variant:normal!important;
+	font-weight:300!important;
+	letter-spacing:normal!important;
+	line-height:18px!important;
+	margin:3px 0!important;
+	outline:none!important;
+	text-indent:0!important;
+	text-shadow:none!important;
+	text-transform:none!important;
+	vertical-align:baseline!important;
+	word-spacing:0!important
+}
